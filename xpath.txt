@@ -1,0 +1,4 @@
+Links: //div[@class="col-7 pl-0 pr-3"]/a/@href
+Título: //div[@class="col-8 order-2 d-flex flex-column"]/div[1]/h2/span/text()
+Resumen: //div[@id="proportional-anchor-1" and @class="wrap-post col-9"]/div[1]/div [@class = "lead"]/p/text()
+Cuerpo: //div[@class = "html-content"]/p[not (@class)]/text()
